@@ -1,0 +1,50 @@
+/* *{
+  line-height: 1.5;
+  outline: 1px dotted red;
+  box-sizing: border-box;
+  
+} */
+.recipe-card{
+  background-color: rgb(228, 215, 215);
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 50px;
+  text-align: center;
+  border: 2px solid rgb(0, 0, 0);
+
+}
+.img{
+  width: 700px;
+  margin: 10px;
+  
+}
+.page-name{
+  background-color: rgb(148, 148, 169);
+  color: rgb(6, 38, 4);
+  text-align: center;
+  font-family:'Courier New', sans-serif;
+ font-size: 65px;
+ 
+ 
+}
+.slogan{
+  color: rgb(0, 0, 0);
+  margin: 1px;
+  padding: 10px;
+  font-family:cursive;
+  font-style: italic;
+  font-size: 25px;
+}
+.recipe-list{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+.recipe-list a{
+  
+  color: #bc0808;
+  font-family:monospace;
+  font-style: italic;
+  font-size: 25px;
+ 
+}
+
